@@ -76,6 +76,13 @@ DVCS:
 4. Remote Repo - Github
 
 1. git init - Initialize a Repo with a .git folder
+2. git status - to check the status of the file
+3. git add . - to add files to staging area 
+4. git commit -m "some message" - to add files into the local repo
+5. git remote add origin <url> (url is the github url)
+6. git push origin master
+
+
 
 
 
