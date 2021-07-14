@@ -1,0 +1,108 @@
+Day 1: 
+
+Devops
+Agile
+CI/CD pipeline
+
+Day 2:
+Azure Boards
+Repos
+
+Day 3:
+Docker 
+
+Day 4: 
+Kubernetes
+
+Day 5: 
+Case study
+
+
+
+Development + Operations= Devops
+
+Lifecycle of Project:
+1. Requirement Gathering - Business Analyst
+2. Analysis - Solution Architect/functional consultants
+3. Design - HLD, LLD - Project Managers/Senior Developers
+4. Coding/Implmentation - Developers/Coders
+5. Testing - Unit Testing, Integration Testing, System Testing,User Acceptance Testing - Testers
+6. Deployment - war/jar files in production server  - Release Managers
+System Engineers, Network Team, security Engineers, Infra Team
+
+
+Database Server/Web server
+
+Client's machine - Production server
+Testing Server/Staging Server
+Dev Server
+
+
+https://aka.ms/azpipelines-parallelism-request
+Azure Link:
+https://docs.microsoft.com/en-us/azure
+
+
+1. Azure Repos ->repos will get created in Azure server(ARM template)
+Azure Resource Manager Template
+2. Github  -> already existing code
+
+CI - Continuous Integration(Development)
+CD - Continuous Deployment
+
+Pipelines:
+1. Build Pipeline
+2. Release Pipeline
+
+
+Product Owner
+Scrum master
+Daily Standup
+Product Backlogs- action plan
+User Stories - Requirement Gathering
+Sprints- 15 days(7 days) - multiple user stories - task
+Sprint Backlog
+
+
+VCS:
+1. Local - google Docs
+2. Centralized - Svn/TFS(Team foundation server)
+3. Distributed - Git and Github
+
+DVCS:
+1. Working copy - notepad/eclipse/word/ppt/vscode/vs/anaconda
+2. Staging Area
+3. Local Repo - Git
+4. Remote Repo - Github
+
+1. git init - Initialize a Repo with a .git folder
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
