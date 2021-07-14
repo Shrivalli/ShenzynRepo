@@ -17,8 +17,6 @@ Kubernetes
 Day 5: 
 Case study
 
-//Shrivalli
-//Arundhati
 
 
 Development + Operations= Devops
@@ -85,7 +83,7 @@ DVCS:
 6. git push origin master
 
 
-
+#Charu Sharma
 
 
 
