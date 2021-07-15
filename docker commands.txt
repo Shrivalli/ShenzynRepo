@@ -1,0 +1,12 @@
+1. build exe jar
+2. create docker file
+
+get into the dockerfile folder in cmd prompt
+
+docker build -t jarfilename .
+docker image ls
+docker run -p8080:8080 jarfilename
+docker ps --> all running containers
+docker container stop cid
+docker ps -a
+docker container start cid
